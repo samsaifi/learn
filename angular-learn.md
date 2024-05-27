@@ -1,5 +1,5 @@
 ## Chapter 5 - Components
-- What is a Component?
+- What is a Component? ✅
 - An Example Component
 - The Component Class
 - Adding a Component to Its Module
